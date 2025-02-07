@@ -9,35 +9,31 @@ Software Developer | Open-Source Enthusiast | Homelab SisAdmin
 2 years of professional experience and 6 of building cool things
 
 # > find Projects/
-
+- project 1
+- project 2
+- project 3
 
 # > cat skills.txt
 Languages: PHP, JavaScript (React), Python, C/C++, Java
 Tools: Containers 🚢, Virtual Machines 📦, Nginx 🌐, MongoDB 🧵 
 OS: Fedora 💻, NixOS 🚀  
-Other: ZFS 📂, SDR 📻, Ladder Logic 💡, Off-grid Electrical Systems 🌍
+Other: ZFS 📂, SDR 📻, Ladder Logic 💡, Oemailff-grid Electrical Systems 🌍
 
 # > tail -n 3 hobbies.txt
-- 🚌 Building a schoolie
-- 🛐 Experimenting with ham radio
-- 🔒 Exploring computer privacy
+- 🥁 Drumming
+- 🚣 Kayaking
+- 💻 Coding
+
+# > ls future_goals/
+- Create the ULTIMATE linux ecosystem 🐧
+- Expand knowledge of data science 🤖
+- Travel and code from my schoolie 🚐
+- Host my own email ✍📨
 
 # > fortune | cowsay
 ✈ "Keep pushing code and breaking boundaries!"
 
-# > history | grep milestones
-- First website launch 🚀
-- Joined [Company Name] as a Software Developer 💼
-- Completed first full-stack project 🌐
-- Passed Technician Class ham radio license 📻
-
-# > ls future_goals/
-- Launch new open-source projects 🌱
-- Expand knowledge in AI/ML 🤖
-- Travel and code from my schoolie 🚐
-- Share knowledge through tech blogs ✍️
-
 # > ping me
-*Insert preferred contact info or fun sign-off here* 📧
+jo60robo on all platforms! 📧
 ```
 
