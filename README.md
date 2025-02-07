@@ -15,9 +15,9 @@ Software Developer | Open-Source Enthusiast | Homelab SisAdmin
 
 # > cat skills.txt
 Languages: PHP, JavaScript (React), Python, C/C++, Java
-Tools: Containers 🚢, Virtual Machines 📦, Nginx 🌐, MongoDB 🧵 
-OS: Fedora 💻, NixOS 🚀  
-Other: ZFS 📂, SDR 📻, Ladder Logic 💡, Oemailff-grid Electrical Systems 🌍
+Tools: Containers, Virtual Machines, Apache, Nginx, Git 
+OS: Debian, Fedora, Arch, NixOS, windows, Android
+Other: Filesystems, Snapshots, Encrypton
 
 # > tail -n 3 hobbies.txt
 - 🥁 Drumming
