@@ -31,7 +31,7 @@ Other: Filesystems, Snapshots, Encrypton
 - Host my own email ✍📨
 
 # > fortune | cowsay
-✈ "Keep pushing code and breaking boundaries!"
+✈ "when it doubt rm -rf it out"
 
 # > ping me
 jo60robo / 60robo on all platforms! 📧
