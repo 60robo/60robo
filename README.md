@@ -3,10 +3,10 @@
 Riley Boughner
 
 # > uname -a
-Software Developer | Full Stack | Open-Source Enthusiast | Linux Power User
+Software Developer | Open-Source Enthusiast | Homelab SisAdmin
 
 # > uptime
-*Insert years of experience here* of coding and building cool stuff
+2 years of professional experience and 6 of building cool things
 
 # > find Projects/
 - [Real Estate CRM](#) 📍
@@ -15,8 +15,8 @@ Software Developer | Full Stack | Open-Source Enthusiast | Linux Power User
 - [Other projects you want to highlight](#) 💡
 
 # > cat skills.txt
-Languages: PHP, JavaScript (React), Python  
-Tools: Docker 🚢, Proxmox 📦, Nginx 🌐, MongoDB 🧵  
+Languages: PHP, JavaScript (React), Python, C/C++, Java
+Tools: Containers 🚢, Virtual Machines 📦, Nginx 🌐, MongoDB 🧵 
 OS: Fedora 💻, NixOS 🚀  
 Other: ZFS 📂, SDR 📻, Ladder Logic 💡, Off-grid Electrical Systems 🌍
 
@@ -27,13 +27,6 @@ Other: ZFS 📂, SDR 📻, Ladder Logic 💡, Off-grid Electrical Systems 🌍
 
 # > fortune | cowsay
 ✈ "Keep pushing code and breaking boundaries!"
-
-# > top -n 5 achievements.txt
-1. Built a scalable Real Estate CRM 🏢
-2. Developed Spyfall Game from scratch 🎮
-3. Automated photo sorting with photosort script 📁
-4. Contributed to open-source projects 🌍
-5. Mastered off-grid electrical systems ⚡
 
 # > history | grep milestones
 - First website launch 🚀
