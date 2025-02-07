@@ -34,6 +34,6 @@ Other: Filesystems, Snapshots, Encrypton
 ✈ "Keep pushing code and breaking boundaries!"
 
 # > ping me
-jo60robo on all platforms! 📧
+jo60robo / 60robo on all platforms! 📧
 ```
 
