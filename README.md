@@ -6,7 +6,7 @@ Riley Boughner
 Software Developer | Open-Source Enthusiast | Homelab SisAdmin
 
 # > uptime
-2 years of professional experience and 6 of building cool things
+1 year of professional experience and 6 of building cool things
 
 # > find Projects/
 - project 1
